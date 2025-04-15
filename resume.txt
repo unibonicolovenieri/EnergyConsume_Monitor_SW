@@ -1,0 +1,16 @@
+ATTIVITA PROGETTUALE DI SISTEMI OPERATIVI
+
+Ripassati: MPI, SLURM Scheduler e script
+Monitoraggio conusumi script
+
+3 macro argomenti
+
+RAPL
+
+POWERCUP
+
+PERF
+
+Obbiettivi, in base a come si evolve la situazione con cineca, saranno possibili vari scenari, tra cui potremo avere, 
+
+- Scenario 1: Perf non utilizzabile, soluzione raggiungibile con powercup, obbiettivo dell'attività riuscire a comprendere la gestione di powercup riguardo a cosa riesce a calcolarsi e come lo fa.
